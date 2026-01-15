@@ -1,9 +1,7 @@
 Video course
 ============
 
-Those who prefer a didactically structured video course over this documentation should have a look
-at our video course:
+There is a free but outdated course available on YouTube:
 
-https://training.xlwings.org/p/xlwings
+https://www.youtube.com/playlist?list=PL8T301Ai03xFcE5AFTnfSqnemXAh8cmMR
 
-It's also a great way to support the ongoing development of xlwings :)

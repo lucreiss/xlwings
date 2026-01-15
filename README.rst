@@ -69,5 +69,5 @@ Links
 * Quickstart: https://docs.xlwings.org/en/stable/quickstart.html
 * Documentation: https://docs.xlwings.org
 * Book (O'Reilly, 2021): https://www.xlwings.org/book
-* Video Course: https://training.xlwings.org/p/xlwings
+* Video Course: https://www.youtube.com/playlist?list=PL8T301Ai03xFcE5AFTnfSqnemXAh8cmMR
 * Source Code: https://github.com/xlwings/xlwings
