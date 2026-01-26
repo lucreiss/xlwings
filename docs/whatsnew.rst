@@ -1,7 +1,7 @@
 Changelog
 =========
 
-v0.33.20 (Jan 121, 2025)
+v0.33.20 (Jan 21, 2025)
 ------------------------
 
 * :bdg-info:`Enhancement` :bdg-secondary:`PRO` Allow to use top-level decorator imports on xlwings Server even if pywin32 is installed (:issue:`2669`).
